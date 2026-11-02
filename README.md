@@ -18,4 +18,4 @@ DOTween
    - アドベンチャーゲーム風サンプル:  Assets/Scenes/AdvGame  
    - ギャルゲー風サンプル: Assets/Scenes/GirlGame  
 
-test
+testtest
