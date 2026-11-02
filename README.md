@@ -17,3 +17,5 @@ DOTween
 5. シーンをロード  
    - アドベンチャーゲーム風サンプル:  Assets/Scenes/AdvGame  
    - ギャルゲー風サンプル: Assets/Scenes/GirlGame  
+
+test
